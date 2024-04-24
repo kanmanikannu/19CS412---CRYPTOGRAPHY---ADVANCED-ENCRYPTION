@@ -174,7 +174,7 @@ void decrypt()
 }  
 ```
 ## OUTPUT:
-![Screenshot (4)](https://github.com/kanmanikannu/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/114866367/0e83e20b-db52-4257-9ac8-10bc23d849db)
+![exp2](https://github.com/kanmanikannu/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/114866367/6b1ac77c-5b0b-4d2d-81e5-3be10897ecae)
 
 
 ## RESULT :
